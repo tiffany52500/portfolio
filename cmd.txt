@@ -1,0 +1,2 @@
+Récuper depuis le lycée : git pull
+Envoyer sur git : git push (faire un commit avant)
